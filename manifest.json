@@ -1,0 +1,38 @@
+{
+  "name": "Ngeneki.com",
+  "short_name": "Ngeneki.com",
+  "start_url": "https://www.ngeneki.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Ngeneki.com adalah situs yang membahas tentang berita, informasi, teknologi, dunia islam, dan hiburan dengan gaya bahasa suka-suka.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s48/NgenekiLogo300X300.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s72/NgenekiLogo300X300.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s96/NgenekiLogo300X300.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s144/NgenekiLogo300X300.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s168/NgenekiLogo300X300.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s192/NgenekiLogo300X300.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-x1y1KCBmtoY/WwDYds30TcI/AAAAAAAABSY/pmI0Q2y6KZ0VMAFkPD4p5uTI84GHvZCbwCLcBGAs/s512/NgenekiLogo300X300.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
